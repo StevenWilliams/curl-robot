@@ -3,7 +3,7 @@
     "description": "Parallel URL crawling extension to curl-easy.",
     "license": "MIT",
     "require": {
-        "steven-williams/curl-easy": "master-dev"
+        "steven-williams/curl-easy": "dev-master"
     },
 
     "autoload": {
@@ -12,11 +12,5 @@
             "cURL\\Robot\\Tests\\": "tests/"
         }
     },
-    "repositories": [
-        {
-            "type": "vcs",
-            "url": "https://github.com/stevenwilliams/curl-easy"
-        }
-    ],
     "minimum-stability": "dev"
 }
