@@ -15,7 +15,7 @@
     "repositories": [
         {
             "type": "vcs",
-            "url": "https://github.com/stevenwilliams/curl-easy",
+            "url": "https://github.com/stevenwilliams/curl-easy"
         }
     ],
     "minimum-stability": "dev"
